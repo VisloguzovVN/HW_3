@@ -1,0 +1,39 @@
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  scroll-behavior: smooth;
+  background: #f3f4f5;
+  color: #fff;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+p,
+a,
+button {
+  color: hsl(0, 0%, 4%);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.logonav {
+  color: #F25822;
+}
+
+.navnav {
+  color: hsl(0, 0%, 4%);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
